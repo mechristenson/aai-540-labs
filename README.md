@@ -133,7 +133,7 @@ Click `File` > `New` > `Terminal` to launch a terminal in your Jupyter instance.
 ## 5. Clone this GitHub Repo in the Terminal
 
 Within the Terminal, run the following:
-`git clone -b main https://github.com/mads508/labs.git`
+`git clone -b main https://github.com/mechristenson/aai-540-labs.git`
 
 If you see an error like the following, just re-run the command again until it works:
 ```

@@ -25,7 +25,7 @@ Within the Learner Lab Setup Guide follow the steps in the [Using Your Learner L
 2. Click `Launch AWS Academy Learner Lab`
 ![LearnerLabStep2](https://github.com/MADS508/labs/blob/main/img/LearnerLabsStep2_2_1.png)
 
-3. In the top right click `Start Lab` This will take 2-3 minutes. Be sure to monitor your budget, once you reach $100 all of your code will be automatically destroyed. **Be sure that you are ALWAYS storing your code in GitHub. You will not be given extra time to complete an assignment due to your Learner Lab deleting your code.**
+3. In the top right click `Start Lab` This will take 2-3 minutes. Be sure to monitor your budget, once you reach $50 all of your code will be automatically destroyed. **Be sure that you are ALWAYS storing your code in GitHub. You will not be given extra time to complete an assignment due to your Learner Lab deleting your code.**
 ![LearnerLabStep3](https://github.com/MADS508/labs/blob/main/img/LearnerLabsStep3.png)
 
 4. Once the lab has loaded you will see a green dot to the right of the AWS status, click it to open the AWS console.
@@ -147,12 +147,6 @@ remove the file manually to continue.
 ```
 _Note:  Just re-run the command again until it works._
 
-## 6. Navigate to Lab 01
-- On the Left hand side click the icon of the folder
-- Click `labs`
-- Click `01_oreilly_book`
-- Double Click `01_Setup_Dependencies.ipynb`
-- Use the default kernel `Python 3 (ipykernel)`
 
 # Shutting Down Sagemaker: Important! :warning::warning::warning:
 When you are done working for the day (or more than 1 hour) you must shutdown both Jupyter Labs AND Learner Labs, else you will continue to spend budget. This video shows how.
